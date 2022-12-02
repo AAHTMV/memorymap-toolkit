@@ -44,7 +44,7 @@ sudo apt install python3-pip python3-venv postgresql postgresql-contrib postgis 
 ### 2. Create a New Python Environment
 
 ```bash
-mkdir venv_1
+mkdir venv
 python3 -m venv venv/memorymap-toolkit
 source venv/memorymap-toolkit/bin/activate
 ```
