@@ -45,14 +45,14 @@ sudo apt install python3-pip python3-venv postgresql postgresql-contrib postgis 
 
 ```bash
 mkdir venv
-python3 -m venv venv/memorymap-toolkit
-source venv/memorymap-toolkit/bin/activate
+python3 -m venv venv/memorymap-toolkit_1
+source venv/memorymap-toolkit/bin/activate_1
 ```
 
 ### 3. Download the Memory Map Toolkit and Install the Required Python Libraries
 ```bash
 git clone https://github.com/AAHTMV/memorymap-toolkit.git
-cd memorymap-toolkit
+cd memorymap-toolkit_1
 pip install -r requirements.txt
 ```
 
