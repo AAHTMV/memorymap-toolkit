@@ -51,7 +51,7 @@ source venv/memorymap-toolkit/bin/activate
 
 ### 3. Download the Memory Map Toolkit and Install the Required Python Libraries
 ```bash
-git clone https://github.com/AAHTMV/memorymap-toolkit.git
+git clone https://github.com/memmorymapper/memorymap-toolkit.git
 cd memorymap-toolkit
 pip install -r requirements.txt
 ```
